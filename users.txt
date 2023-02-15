@@ -1,0 +1,9 @@
+prenom	nom	groupe
+albus	dumbledore	direction
+virius	sogue	direction
+rick	gunter	technicien
+licky narson	technicien
+moha	medali	comptabilite
+floyd	mayweather	comptabilite
+tydon	sury	production
+deonway	tilder	production
