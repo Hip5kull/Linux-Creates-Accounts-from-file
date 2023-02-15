@@ -38,7 +38,7 @@ fi
 
 while read -r prenom nom groupe; do
 
-    username=$(echo "${prenom:0:1}$nom" | tr '[:upper:]' '[:lower:]' | cut -c1-8)
+    username=$(echo "${prenom:0:1}$nom" | tr '[:upper:]' '[:lower:]')
 
     password=$(openssl rand -base64 12 | tr -d "=+/")
 
